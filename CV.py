@@ -75,4 +75,4 @@ st.write('- Arabic: Mother tongue.')
 # Links
 st.header('Links:')
 st.write('- GitHub link: [GitHub](https://github.com/sharawy20142015)')
-st.write('- Elmenus Project: [Task Project](https://elmenus.streamlit.app/)')
+st.write('- Elmenus Project: [Elmenus Project](https://elmenus.streamlit.app/)')
